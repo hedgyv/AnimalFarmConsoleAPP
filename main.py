@@ -57,7 +57,7 @@ def main():
     dice2 = ['duck', 'bear', 'duck', 'sheep', 'duck', 'horse', 'duck', 'pig']
 
 
-    player1 = Player('Olya', dice1, dice2)
+    player1 = Player('John', dice1, dice2)
 
 
     
